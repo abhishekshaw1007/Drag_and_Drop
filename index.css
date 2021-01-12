@@ -1,0 +1,19 @@
+img {
+  height: 80px;
+  width: 100px;
+  border: 2px solid;
+  cursor: pointer;
+}
+
+div {
+  /* height: 100px;
+  width: 100px; */
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  margin-top: 15rem;
+}
